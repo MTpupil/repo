@@ -1,9 +1,9 @@
 Origin: MTpupil
-Label: Tccpg
+Label: MTpupil
 Suite: stable
 Version: 1.0
-Codename: Tccpg
+Codename: MTpupil
 Architectures: iphoneos-arm
 Components: main
-Description: 自用源
+Description: 自用源,仅收集自己感兴趣的插件使用。
 
