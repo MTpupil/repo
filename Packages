@@ -4,14 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: MTpupil
 Installed-Size: 714
 Depends: mobilesubstrate
-Filename: ./debs/木瞳-视距.deb
-Size: 398068
-MD5sum: 0fa6895cf1e8d723b7a039bc9b5e98da
-SHA1: d439e5803162fde24b5737bb9d555e16b12851b4
-SHA256: 4d149acffd7f557d82730c29f977e15f9421cb456b84ef7d503047941e022b57
+Filename: ./debs/mtpupil.deb
+Size: 416658
+MD5sum: 4daaa8f210c14f506278a7cea5692408
+SHA1: 93bf92440c44816b6c838324500bef1b11855a82
+SHA256: 9cf75d80b147c3f64479d0b3082083c120c201b4d6c1be8a20d3c29abc626df9
 Section: 视距
 Description: 三指连续敲击三次打开菜单
 Author: 木瞳
-Name: 一个视距
+Name: MTpupil-shiju
 Sponsor: 木瞳
 
