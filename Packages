@@ -1,0 +1,17 @@
+Package: com.jbsm.syqj
+Version: 3.2.3
+Architecture: iphoneos-arm
+Maintainer: MTpupil
+Installed-Size: 714
+Depends: mobilesubstrate
+Filename: ./debs/木瞳-视距.deb
+Size: 398068
+MD5sum: 0fa6895cf1e8d723b7a039bc9b5e98da
+SHA1: d439e5803162fde24b5737bb9d555e16b12851b4
+SHA256: 4d149acffd7f557d82730c29f977e15f9421cb456b84ef7d503047941e022b57
+Section: 视距
+Description: 三指连续敲击三次打开菜单
+Author: 木瞳
+Name: 一个视距
+Sponsor: 木瞳
+
